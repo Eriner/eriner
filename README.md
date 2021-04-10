@@ -1,7 +1,7 @@
 <h1 align="center">I'm Matt</h1>
 <h3 align="center">Open source and responsible disclosure advocate, security researcher, and developer.</h3>
 
-### Open Source
+### 🛠  Open Source
 
 #### Projects
 
@@ -13,7 +13,7 @@
 - [bcryptit: generate bcrypt strings (useful when creating tests)](https://github.com/Eriner/bcryptit)
 - [dailysuntzu: demo/template for small, multi-stage Docker containers](https://github.com/Eriner/dailysuntzu)
 
-### Research and Disclosures
+### 🧠 Research and Disclosures
 
 | Disclosure | CVEs |
 | --- |--- |
@@ -28,6 +28,6 @@
 | [home-assistant: markdown injection](https://github.com/home-assistant/home-assistant-polymer/pull/2115/commits/59bf117e2a6a256997a0809d20a26ed745bccd74) | NA |
 | [Mastodon: Remote User/Server Lookup DoS](https://github.com/tootsuite/mastodon/pull/9329) | CVE-2018-21018 |
 
-### Contact
+### ✉ Contact
 
 You can get my email from any of my signed commit messages.
