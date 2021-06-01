@@ -10,8 +10,11 @@
 
 #### Utilities, templates, packages
 
-- [bcryptit: generate bcrypt strings (useful when creating tests)](https://github.com/Eriner/bcryptit)
-- [dailysuntzu: demo/template for small, multi-stage Docker containers](https://github.com/Eriner/dailysuntzu)
+- [githooks: a few .git/hooks I use](https://github.com/Eriner/githooks)
+- [adventureland-poc: a template for building an AdventureLand RPG bot using Playwright and Go](https://github.com/Eriner/adventureland-poc)
+- [launchpad: a Go package for interfacing with a Novation Launchpad X](https://github.com/Eriner/launchpad)
+- [bcryptit: generate bcrypt strings (useful when creating bcrypt test corpus)](https://github.com/Eriner/bcryptit)
+- [dailysuntzu: a demo of small, multi-stage Docker containers](https://github.com/Eriner/dailysuntzu)
 
 ### 🧠 Research and Disclosures
 
