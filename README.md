@@ -15,6 +15,7 @@
 - [launchpad: a Go package for interfacing with a Novation Launchpad X](https://github.com/Eriner/launchpad)
 - [bcryptit: generate bcrypt strings (useful when creating bcrypt test corpus)](https://github.com/Eriner/bcryptit)
 - [dailysuntzu: a demo of small, multi-stage Docker containers](https://github.com/Eriner/dailysuntzu)
+- [prox: a Go proxy template I use in favor of Burp macros](https://github.com/Eriner/prox)
 
 ### 🧠 Research and Disclosures
 
