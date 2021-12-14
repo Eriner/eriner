@@ -20,7 +20,7 @@
 
 | Disclosure | CVEs |
 | --- |--- |
-| [Emoji to Zero-Day: Latin Homoglyphs in Domains and Subdomains](https://web.archive.org/web/20201209181122/https://www.soluble.ai/blog/public-disclosure-emoji-to-zero-day) | NA |
+| [Emoji to Zero-Day: Latin Homoglyphs in Domains and Subdomains](https://web.archive.org/web/20201209181122/https://www.soluble.ai/blog/public-disclosure-emoji-to-zero-day) | NA, patches by Verisign and Amazon |
 | [ConnectWise Control](https://web.archive.org/web/20200916192818/https://labs.bishopfox.com/advisories/connectwise-control) | CVE-2019-16513, CVE-2019-16512, CVE-2019-16517, CVE-2019-15614, CVE-2019-16515 |
 | [Argo: multiple CVEs](https://web.archive.org/web/20210321124655/https://www.soluble.ai/blog/argo-cves-2020) | CVE-2018-21034, CVE-2020-8828, CVE-2020-8827, CVE-2020-11576 |
 | [Harbor: SSRF](https://web.archive.org/web/20210322132249/https://www.soluble.ai/blog/harbor-ssrf-cve-2020-13788) | CVE-2020-13788 |
@@ -28,7 +28,7 @@
 | [Simple: Information Disclosure](https://web.archive.org/web/20210129013519/https://labs.bishopfox.com/advisories/simple-better-banking-android-v-2-45-0-2-45-3-sensitive-information-disclosure) | CVE-2019-8350 |
 | [CoreOS Tectonic: CVE-2018-5256](https://web.archive.org/web/20210319020045/https://nvd.nist.gov/vuln/detail/CVE-2018-5256) | CVE-2018-5256 |
 | [home-assistant: information disclosure](https://github.com/home-assistant/home-assistant/pull/13836) | CVE-2018-21019 |
-| [home-assistant: markdown injection](https://github.com/home-assistant/home-assistant-polymer/pull/2115/commits/59bf117e2a6a256997a0809d20a26ed745bccd74) | NA |
+| [home-assistant: markdown injection](https://github.com/home-assistant/home-assistant-polymer/pull/2115/commits/59bf117e2a6a256997a0809d20a26ed745bccd74) | NA, no exploitable PoC |
 | [Mastodon: Remote User/Server Lookup DoS](https://github.com/tootsuite/mastodon/pull/9329) | CVE-2018-21018 |
 
 ### ✉ Contact
