@@ -14,8 +14,7 @@
 - [adventureland-poc: a template for building an AdventureLand RPG bot using Playwright and Go](https://github.com/Eriner/adventureland-poc)
 - [launchpad: a Go package for interfacing with a Novation Launchpad X](https://github.com/Eriner/launchpad)
 - [bcryptit: generate bcrypt strings (useful when creating bcrypt test corpus)](https://github.com/Eriner/bcryptit)
-- [dailysuntzu: a demo of small, multi-stage Docker containers](https://github.com/Eriner/dailysuntzu)
-- [prox: a Go proxy template I use in favor of Burp macros](https://github.com/Eriner/prox)
+- [dailysuntzu: demo of small, multi-stage Docker container](https://github.com/Eriner/dailysuntzu)
 
 ### 🧠 Research and Disclosures
 
@@ -28,7 +27,7 @@
 | [Keycloak: DoS](https://web.archive.org/web/20201205001123/https://www.soluble.ai/blog/keycloak-cve-2020-10758) | CVE-2020-10758 |
 | [Simple: Information Disclosure](https://web.archive.org/web/20210129013519/https://labs.bishopfox.com/advisories/simple-better-banking-android-v-2-45-0-2-45-3-sensitive-information-disclosure) | CVE-2019-8350 |
 | [CoreOS Tectonic: CVE-2018-5256](https://web.archive.org/web/20210319020045/https://nvd.nist.gov/vuln/detail/CVE-2018-5256) | CVE-2018-5256 |
-| [home-assistant: information disclosure](https://github.com/home-assistant/home-assistant/pull/13836) | NA |
+| [home-assistant: information disclosure](https://github.com/home-assistant/home-assistant/pull/13836) | CVE-2018-21019 |
 | [home-assistant: markdown injection](https://github.com/home-assistant/home-assistant-polymer/pull/2115/commits/59bf117e2a6a256997a0809d20a26ed745bccd74) | NA |
 | [Mastodon: Remote User/Server Lookup DoS](https://github.com/tootsuite/mastodon/pull/9329) | CVE-2018-21018 |
 
