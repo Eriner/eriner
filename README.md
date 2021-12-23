@@ -20,6 +20,7 @@
 
 | Disclosure | CVEs |
 | --- |--- |
+| [hame-assistant addon-ssh: Blueprint RCE](https://gist.github.com/Eriner/0872628519f70556d2c26c83439a9f67) | CVE-2021-45099 |
 | [Emoji to Zero-Day: Latin Homoglyphs in Domains and Subdomains](https://web.archive.org/web/20201209181122/https://www.soluble.ai/blog/public-disclosure-emoji-to-zero-day) | NA, patches by Verisign and Amazon |
 | [ConnectWise Control](https://web.archive.org/web/20200916192818/https://labs.bishopfox.com/advisories/connectwise-control) | CVE-2019-16513, CVE-2019-16512, CVE-2019-16517, CVE-2019-15614, CVE-2019-16515 |
 | [Argo: multiple CVEs](https://web.archive.org/web/20210321124655/https://www.soluble.ai/blog/argo-cves-2020) | CVE-2018-21034, CVE-2020-8828, CVE-2020-8827, CVE-2020-11576 |
