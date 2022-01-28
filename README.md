@@ -6,6 +6,10 @@
 
 ### 🛠  Open Source
 
+#### Blog Posts
+
+- [STOP STORING SECRETS IN ENVIRONMENT VARIABLES!](https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables)
+
 #### Projects
 
 - [zimfw: zsh configuration framework with blazing speed](https://github.com/zimfw/zimfw)
