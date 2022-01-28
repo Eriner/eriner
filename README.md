@@ -1,5 +1,8 @@
 <h1 align="center">I'm Matt</h1>
-<h3 align="center">Open source and responsible disclosure advocate, security researcher, and developer.</h3>
+<h3 align="center">Open source and responsible disclosure advocate, security researcher, developer, and co-founder of Forces Unseen.</h3>
+<a href="https://www.forcesunseen.com/">
+  <img src="https://uploads-ssl.webflow.com/6066315eb78737755d80e001/60da8c5f5c47d0f9c07a0e35_mark.svg" width="100%" height="225">
+</a>
 
 ### 🛠  Open Source
 
@@ -34,4 +37,7 @@
 
 ### ✉ Contact
 
-You can get my email from any of my signed commit messages.
+If you'd like to send me a personal message, you can get my email from any of my
+signed commit messages.
+
+For business inquiries, please use [the Forces Unseen Contact form](https://www.forcesunseen.com/contact).
