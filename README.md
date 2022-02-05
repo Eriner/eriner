@@ -43,6 +43,6 @@
 
 Email: <see_signed_commits@for_address.example>
 
-Fediverse: <a rel="me" href="https://noagendasocial.com/@eriner">@eriner@noagendasocial.com</a>
+Fediverse: <a rel="me nofollow" href="https://noagendasocial.com/@eriner">@eriner​@noagendasocial.com</a>
 
 For business inquiries, please use [the Forces Unseen Contact form](https://www.forcesunseen.com/contact).
