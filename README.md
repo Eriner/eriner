@@ -42,6 +42,7 @@
 ### ✉ Contact
 
 Email: <see_signed_commits@for_address.example>
+
 Fediverse: [@eriner@noagendasocial.com](https://noagendasocial.com/@eriner)
 
 For business inquiries, please use [the Forces Unseen Contact form](https://www.forcesunseen.com/contact).
