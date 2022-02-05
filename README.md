@@ -41,7 +41,7 @@
 
 ### ✉ Contact
 
-If you'd like to send me a personal message, you can get my email from any of my
-signed commit messages.
+Email: <see_signed_commits@for_address.example>
+Fediverse: [@eriner@noagendasocial.com](https://noagendasocial.com/@eriner)
 
 For business inquiries, please use [the Forces Unseen Contact form](https://www.forcesunseen.com/contact).
