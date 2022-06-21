@@ -9,9 +9,11 @@
 #### Blog Posts
 
 - [**STOP STORING SECRETS IN ENVIRONMENT VARIABLES!**](https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables)
+- [$ email blame](https://blog.forcesunseen.com/email-blame)
 
 #### Projects
 
+- [blame.email: client-side one-way email generator](https://blame.email)
 - [zimfw: zsh configuration framework with blazing speed](https://github.com/zimfw/zimfw)
 - [Kubetap: kubectl plugin to proxy k8s services](https://github.com/Eriner/kubetap)
 
