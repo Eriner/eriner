@@ -1,31 +1,22 @@
 <h1 align="center">I'm Matt</h1>
-<h3 align="center">Open source and responsible disclosure advocate, security researcher, developer, and co-founder of Forces Unseen.</h3>
+<h3 align="center">Security researcher, developer, and co-founder of Forces Unseen.</h3>
 <a href="https://www.forcesunseen.com/">
-  <img src="https://uploads-ssl.webflow.com/6066315eb78737755d80e001/60da8c5f5c47d0f9c07a0e35_mark.svg" width="100%" height="225">
+  <img src="https://forcesunseen.com/logo_l.svg" width="100%" height="225">
 </a>
 
-### 🛠  Open Source
+### Projects and Tools
 
-#### Blog Posts
-
-- [**STOP STORING SECRETS IN ENVIRONMENT VARIABLES!**](https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables)
-- [$ email blame](https://blog.forcesunseen.com/email-blame)
-
-#### Projects
-
-- [blame.email: client-side one-way email generator](https://blame.email)
+- [doublespeak.chat: An LLM security game](https://doublespeak.chat)
 - [zimfw: zsh configuration framework with blazing speed](https://github.com/zimfw/zimfw)
 - [Kubetap: kubectl plugin to proxy k8s services](https://github.com/Eriner/kubetap)
-
-#### Utilities, templates, packages
-
+- [vanity-npub: fast vanity (Nostr) bech-32 npub address generator](https://github.com/Eriner/vanity-npub)
+- [bcryptit: generate bcrypt strings (useful when creating bcrypt test corpus)](https://github.com/Eriner/bcryptit)
 - [githooks: a few .git/hooks I use](https://github.com/Eriner/githooks)
 - [adventureland-poc: a template for building an AdventureLand RPG bot using Playwright and Go](https://github.com/Eriner/adventureland-poc)
 - [launchpad: a Go package for interfacing with a Novation Launchpad X](https://github.com/Eriner/launchpad)
-- [bcryptit: generate bcrypt strings (useful when creating bcrypt test corpus)](https://github.com/Eriner/bcryptit)
 - [dailysuntzu: demo of small, multi-stage Docker container](https://github.com/Eriner/dailysuntzu)
 
-### 🧠 Research and Disclosures
+## 🧠 Research and Disclosures
 
 |         | Disclosure                                                                                                                                                                                        | CVEs                                                                           |
 | ---     | ---                                                                                                                                                                                               | ---                                                                            |
@@ -43,8 +34,4 @@
 
 ### ✉ Contact
 
-Email: <see_signed_commits@for_address.example>
-
-Fediverse: [@eriner@noagendasocial.com](https://noagendasocial.com/@eriner)
-
-For business inquiries, please use [the Forces Unseen Contact form](https://www.forcesunseen.com/contact).
+Email: matt@forcesunseen.com
