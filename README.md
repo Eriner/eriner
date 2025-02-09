@@ -1,8 +1,5 @@
 <h1 align="center">I'm Matt</h1>
 <h3 align="center">Security researcher, developer, and co-founder of Forces Unseen.</h3>
-<a href="https://www.forcesunseen.com/">
-  <img src="https://forcesunseen.com/logo_l.svg" width="100%" height="225">
-</a>
 
 ### Projects and Tools
 
@@ -20,6 +17,7 @@
 
 |         | Disclosure                                                                                                                                                                                        | CVEs                                                                           |
 | ---     | ---                                                                                                                                                                                               | ---                                                                            |
+|         | [better-auth: XSS](https://github.com/better-auth/better-auth/security/advisories/GHSA-9x4v-xfq5-m8x5)                                                                                            | GHSA-9x4v-xfq5-m8x5
 |         | [Home-Assistant addon-ssh: Blueprint RCE](https://gist.github.com/Eriner/0872628519f70556d2c26c83439a9f67)                                                                                        | CVE-2021-45099                                                                 |
 | :star2: | [Emoji to Zero-Day: Latin Homoglyphs in Domains and Subdomains](https://web.archive.org/web/20201209181122/https://www.soluble.ai/blog/public-disclosure-emoji-to-zero-day)                       | NA, patches by Verisign and Amazon                                             |
 | :star2: | [ConnectWise Control: multiple CVEs](https://web.archive.org/web/20200916192818/https://labs.bishopfox.com/advisories/connectwise-control)                                                        | CVE-2019-16513, CVE-2019-16512, CVE-2019-16517, CVE-2019-15614, CVE-2019-16515 |
@@ -34,4 +32,4 @@
 
 ### ✉ Contact
 
-Email: matt@forcesunseen.com
+Email: m@tthamilton.com
